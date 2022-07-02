@@ -1,2 +1,4 @@
 # python_1
-practic
+
+python exercises from easy to difficult
+-dantalion developer  :)
