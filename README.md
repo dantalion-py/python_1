@@ -2,3 +2,11 @@
 
 python exercises from easy to difficult
 -dantalion developer  :)
+
+
+
+
+
+
+hello 
+
